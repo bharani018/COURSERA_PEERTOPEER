@@ -16,3 +16,8 @@ Special Characters:
 
 !@#$%^&*()
 >>>>>>> Feature
+
+
+Arithmetic Operations:
+
++-*/ (Addition, subtraction, multiplication, division)
