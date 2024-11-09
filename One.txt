@@ -5,3 +5,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Small Letters:
 
 abcdefghijklmnopqrstuvwxyz;,.
+
+
+Special Characters:
+
+!@#$%^&*()
