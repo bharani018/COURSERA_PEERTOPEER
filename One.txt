@@ -1,3 +1,7 @@
 ALPHABETS:
 
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Small Letters:
+
+abcdefghijklmnopqrstuvwxyz;,.
